@@ -12,7 +12,7 @@ Data Scientist 📈| Mathematician 🔢| Teacher 👨🏻‍🏫| Passionate abo
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: The fear of long words is called Hippopotomonstrosesquippedaliophobia
 
-  ![Idegbekwu Oluwaseyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oluwaseyi-Isaias27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+  ![Idegbekwu Oluwaseyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamseyi27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--
 **Oluwaseyi-Isaias27/Oluwaseyi-Isaias27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
